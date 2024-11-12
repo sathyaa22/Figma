@@ -36,8 +36,6 @@ Figma
 
 ### Page 1
 ```
-Page -1
-
 <div style="width: 419px; height: 926px; position: relative; background: white">
   <div style="left: 50px; top: 56px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word"> </div>
   <div style="width: 428px; height: 500px; left: -9px; top: 432px; position: absolute; background: rgba(129.61, 94.96, 62.97, 0.79)"></div>
@@ -68,7 +66,6 @@ Page -1
 
 ### Page 2
 ```
-Page- 2
 <div style="width: 428px; height: 926px; position: relative; background: rgba(118.56, 46.93, 68.42, 0.64)">
   <img style="width: 428px; height: 216px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/428x216" />
   <img style="width: 155px; height: 56px; left: 9px; top: 9px; position: absolute; border-radius: 220px" src="https://via.placeholder.com/155x56" />
@@ -108,8 +105,6 @@ Page- 2
 
 ### Page 3
 ```
-Page- 3
-
 <div style="width: 428px; height: 926px; position: relative; background: rgba(118.56, 46.93, 68.42, 0.64)">
   <img style="width: 404px; height: 63px; left: 12px; top: 23px; position: absolute" src="https://via.placeholder.com/404x63" />
   <img style="width: 155px; height: 56px; left: 30px; top: 96px; position: absolute; border-radius: 220px" src="https://via.placeholder.com/155x56" />
